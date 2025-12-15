@@ -1,0 +1,68 @@
+{
+  "bio": {
+    "name": "Carlota Tudela",
+    "role": "Product Designer",
+    "focus": "UX architecture, AI-driven products, SaaS platforms"
+  },
+  "skills": [
+    "Conversational AI",
+    "UX architecture",
+    "Product Design",
+    "Html",
+    "CSS",
+    "Graphic Design (practiced on hobby basis)",
+    "Watercolor illustration (practiced on hobby basis)"
+
+  ],
+  "toolsandsoftwares": [
+    "Framer",
+    "Figma",
+    "Mirro",
+    "V0",
+    "Lovable",
+    "Voiceflow",
+    "Trello",
+    "Dialogflow"
+
+  ],
+  "favorites": {
+    "designtool": "Figma",
+    "newtechproduct": "Google Disco",
+    "casestudy": "Android Private Space by Dousan Miao",
+    "band": "The Teskey Brothers",
+    "femaleMusician": "Olivia Dean",
+    "maleMusician": "Leon Bridges",
+    "movie": "Almost Famous",
+    "show": "Friday Night Lights",
+    "book": "Against Democracy by Jasos Brennan",
+    "game": "College Football 26"
+  },
+  "funFacts": [
+    "Loves strangers’ dogs",
+    "Creates overly specific playlists",
+    "Loves 2000's rom-coms",
+    "Is a fan of NLF football, and the Green Bay Packers are her favorite team. Thinks Aaron Rodgers is the greatest quaterback of all time",
+    "Is a big believer in the importance of white space in UI design"
+  ],
+  "caseStudies": [
+    {
+      "title": "Security Exchange Platform",
+      "intro": "A platform for asset owners to track compliance with industry standards in real time and share security requirements with partners transparently.",
+      "industry": "Utilities and Compliance",
+      "role": "Product Designer",
+      "theproblem": "The client brought only a conceptual idea. No features, no flows, and a domain full of heavy cybersecurity and compliance jargon.",
+      "thechallenge": "Translate a vague vision into a usable, multi-user platform; design for a field the team had no prior knowledge of; ensure clarity for both technical and non-technical stakeholders.",
+      "constraints": "No formal user research budget; multiple user types with overlapping workflows",
+      "solutionsandimpact": "Multi-user role-based dashboard that prioritized critical compliance alerts; submission system with status tracking to reduce ambiguity; unified design system ensuring visual consistency across future modules; delivered full, dev ready prototype used for investor pitches and stakeholder onboarding.",
+      "process": "1 - Rapid onboarding; 2 - Information arquitecture; 3 - Wireframing and prototyping; 4 - ui desing and desing system"
+    },
+    {
+      "title": "Gogrow AI",
+      "intro": "An AI-powered business consulting app that helps companies craft strategies for continuous growth.",
+      "theproblem": "Stepped into an in-progress product targeting small business owners unfamiliar with advanced digital tools. The existing design suffered from inconsistent brand identity, overwhelming layouts for a non-technical audience, low discoverability of key features",
+      "constraints": "No formal research budget; limited historical design documentation from previous team that worked on the project",
+      "solutionsandimpact": "Consolidated navigation into a more predictable structure; consolidated pre-existing brand identity with product's visual identity; exceptionally positive early user feedback, and client satisfaction; client adopted updated brand identity across marketing materials.",
+      "process": "1 - PRoduct audit; 2 - addressed urgent usability gaps; 3 - branding consolidation; 4 - post-launch collaborative walkthroughs"
+    }
+  ]
+}
