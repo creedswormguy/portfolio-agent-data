@@ -26,16 +26,16 @@
 
   ],
   "favorites": [
-    "designtool": "Figma",
-    "newtechproduct": "Google Disco",
-    "casestudy": "Android Private Space by Dousan Miao",
-    "band": "The Teskey Brothers",
-    "femaleMusician": "Olivia Dean",
-    "maleMusician": "Leon Bridges",
-    "movie": "Almost Famous",
-    "show": "Friday Night Lights",
-    "book": "Against Democracy by Jasos Brennan",
-    "game": "College Football 26"
+    "designtool: Figma",
+    "newtechproduct: Google Disco",
+    "casestudy: Android Private Space by Dousan Miao",
+    "band: The Teskey Brothers",
+    "femaleMusician: Olivia Dean",
+    "maleMusician: Leon Bridges",
+    "movie: Almost Famous",
+    "show: Friday Night Lights",
+    "book: Against Democracy by Jasos Brennan",
+    "game: College Football 26"
   ],
   "funFacts": [
     "Loves strangers’ dogs",
@@ -68,9 +68,10 @@
       "title": "Degiro Redesign",
       "intro": "Brokerage App UX/UI Overhaul (Concept)",
       "theproblem": "DEGIRO’s app suffered from overloaded information hierarchy, inefficient navigation, poor thumb reachability for key actions, and a lack of high demand usability features",
-      "solutions": "Larger unobstructed stock charts with relocated value labels, clearer menu with visible settings tab, better information architecture based on user research, reorganized stock details with relevant metrics first, and recommendation wheel replacing hard-to-read financial graphs.",
+      "solutions": "Larger unobstructed stock charts with relocated value labels, clearer menu with visible settings tab, better information architecture based on user research, reorganized stock details with relevant metrics first, and recommendation wheel replacing hard-to-read financial graphs."
     }
   ]
 }
+
 
 
