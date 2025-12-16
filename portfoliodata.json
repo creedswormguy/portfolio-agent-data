@@ -26,16 +26,16 @@
 
   ],
   "favorites": [
-    "designtool: Figma",
-    "newtechproduct: Google Disco",
-    "casestudy: Android Private Space by Dousan Miao",
-    "band: The Teskey Brothers",
-    "femaleMusician: Olivia Dean",
-    "maleMusician: Leon Bridges",
-    "movie: Almost Famous",
-    "show: Friday Night Lights",
-    "book: Against Democracy by Jasos Brennan",
-    "game: College Football 26"
+  { "category": "Design tool", "value": "Figma" },
+  { "category": "New tech product", "value": "Google Disco" },
+  { "category": "Case study", "value": "Android Private Space by Dousan Miao" },
+  { "category": "Band", "value": "The Teskey Brothers" },
+  { "category": "Female musician", "value": "Olivia Dean" },
+  { "category": "Male musician", "value": "Leon Bridges" },
+  { "category": "Movie", "value": "Almost Famous" },
+  { "category": "Show", "value": "Friday Night Lights" },
+  { "category": "Book", "value": "Against Democracy by Jason Brennan" },
+  { "category": "Game", "value": "College Football 26" }
   ],
   "funFacts": [
     "Loves strangers’ dogs",
@@ -72,6 +72,7 @@
     }
   ]
 }
+
 
 
 
