@@ -25,18 +25,18 @@
     "Dialogflow"
 
   ],
-  "favorites": [
-  { "category": "Design tool", "value": "Figma" },
-  { "category": "New tech product", "value": "Google Disco" },
-  { "category": "Case study", "value": "Android Private Space by Dousan Miao" },
-  { "category": "Band", "value": "The Teskey Brothers" },
-  { "category": "Female musician", "value": "Olivia Dean" },
-  { "category": "Male musician", "value": "Leon Bridges" },
-  { "category": "Movie", "value": "Almost Famous" },
-  { "category": "Show", "value": "Friday Night Lights" },
-  { "category": "Book", "value": "Against Democracy by Jason Brennan" },
-  { "category": "Game", "value": "College Football 26" }
-  ],
+"favorites": [
+  "Design tool: Figma",
+  "New tech product: Google Disco",
+  "Case study: Android Private Space by Dousan Miao",
+  "Band: The Teskey Brothers",
+  "Female musician: Olivia Dean",
+  "Male musician: Leon Bridges",
+  "Movie: Almost Famous",
+  "Show: Friday Night Lights",
+  "Book: Against Democracy by Jason Brennan",
+  "Game: College Football 26"
+],
   "funFacts": [
     "Loves strangers’ dogs",
     "Creates overly specific playlists",
@@ -72,6 +72,7 @@
     }
   ]
 }
+
 
 
 
