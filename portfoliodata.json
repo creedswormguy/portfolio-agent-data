@@ -52,7 +52,6 @@
     "Portfolio Agent: An interactive conversational agent embedded in Carlota’s portfolio."
   ],
 
-  "projectDetails": {
     "Security Exchange Platform": [
       "Problem: Client brought only a conceptual idea with heavy cybersecurity jargon.",
       "Challenge: Translate vague vision into a usable, multi-user platform.",
@@ -78,5 +77,5 @@
       "Solutions: Dynamic agent with buttons + free text, JSON consistency, recruiter-friendly prompts.",
       "Process: Defined recruiter use cases, structured JSON, iterated prompts for polished tone."
     ]
-  }
 }
+
