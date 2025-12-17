@@ -10,9 +10,8 @@
     "Conversational AI",
     "Html",
     "CSS",
-    "Graphic Design (practiced on hobby basis)",
-    "Watercolor illustration (practiced on hobby basis)"
-
+    "Graphic Design (hobby basis)",
+    "Watercolor illustration (hobby basis)"
   ],
   "toolsandsoftwares": [
     "Framer",
@@ -23,86 +22,61 @@
     "Voiceflow",
     "Trello",
     "Dialogflow"
-
   ],
-"favorites": [
-  "Design tool: Figma",
-  "New tech product: Google Disco",
-  "Case study: Android Private Space by Dousan Miao",
-  "Band: The Teskey Brothers",
-  "Female musician: Olivia Dean",
-  "Male musician: Leon Bridges",
-  "Movie: Almost Famous",
-  "Show: Friday Night Lights",
-  "Book: Against Democracy by Jason Brennan",
-  "Game: College Football 26"
-],
+  "favorites": [
+    "Design tool: Figma",
+    "New tech product: Google Disco",
+    "Case study: Android Private Space by Dousan Miao",
+    "Band: The Teskey Brothers",
+    "Female musician: Olivia Dean",
+    "Male musician: Leon Bridges",
+    "Movie: Almost Famous",
+    "Show: Friday Night Lights",
+    "Book: Against Democracy by Jason Brennan",
+    "Game: College Football 26"
+  ],
   "funFacts": [
     "Loves strangers’ dogs",
     "Creates overly specific playlists",
     "Loves 2000's rom-coms",
-    "Is a fan of NFL football, and the Green Bay Packers are her favorite team. Thinks Aaron Rodgers is the greatest quaterback of all time",
-    "Loves to play sports. Used to do horse jumping competitevly. Now mostly skateboards as a hobby"
+    "Is a fan of NFL football, Green Bay Packers are her favorite team",
+    "Used to do horse jumping competitively, now skateboards as a hobby"
   ],
-   "linkedin": [
-    "linkedin.com/in/carlota-tudela"
+  "linkedin": ["linkedin.com/in/carlota-tudela"],
+  "email": ["carlotatudela@outlook.com"],
 
+  "projectList": [
+    "Security Exchange Platform: A platform for asset owners to track compliance and share requirements transparently.",
+    "Gogrow AI: An AI-powered business consulting app for continuous growth.",
+    "Degiro Redesign: Brokerage App UX/UI Overhaul (Concept).",
+    "Portfolio Agent: An interactive conversational agent embedded in Carlota’s portfolio."
   ],
-     "email": [
-    "carlotatudela@outlook.com"
 
-  ],
- "caseStudies": [
-  {
-  "title": "Portfolio Agent",
-  "intro": "An interactive conversational agent embedded in Carlota’s portfolio, designed to let site visitors explore her work more efficiently.",
-  "role": "Conversational Designer",
-  "problem": "Traditional portfolios often feel dense, and are time consuming to go through. Users need a more engaging, guided way to discover her projects and personality.",
-  "challenge": "Balance technical constraints of platforms like Voiceflow with the design vision for fluid recruiter-friendly interactions. Ensure both button-driven and free-text flows feel seamless.",
-  "constraints": "Platform quirks and limitations in Voiceflow’s new UI.",
-  "solutions": "Created a dynamic agent that introduces Carlota, shares skills, favorites, and fun facts, and lets users dive into projects. Designed prompts to vary phrasing for naturalness, and engineered JSON consistency for scalable project summaries.",
-  "process": "1 - Defined recruiter use cases; 2 - Structured JSON for flexible data capture; 3 - Built flows with Capture + Condition + Button logic; 4 - Iterated prompts for recruiter-friendly tone."
-  },
-  {
-    "title": "Security Exchange Platform",
-    "intro": "A platform for asset owners to track compliance with industry standards in real time and share security requirements with partners transparently.",
-    "industry": "Utilities and Compliance",
-    "role": "Product Designer",
-    "problem": "The client brought only a conceptual idea. No features, no flows, and a domain full of heavy cybersecurity and compliance jargon.",
-    "challenge": "Translate a vague vision into a usable, multi-user platform; design for a field the team had no prior knowledge of; ensure clarity for both technical and non-technical stakeholders.",
-    "constraints": "No formal user research budget; multiple user types with overlapping workflows",
-    "solutions": "Multi-user role-based dashboard that prioritized critical compliance alerts; submission system with status tracking to reduce ambiguity; unified design system ensuring visual consistency across future modules; delivered full, dev ready prototype used for investor pitches and stakeholder onboarding.",
-    "process": "1 - Rapid onboarding; 2 - Information architecture; 3 - Wireframing and prototyping; 4 - UI design and design system"
-  },
-  {
-    "title": "Gogrow AI",
-    "intro": "An AI-powered business consulting app that helps companies craft strategies for continuous growth.",
-    "industry": "Business Consulting",
-    "role": "Product Designer",
-    "problem": "Stepped into an in-progress product targeting small business owners unfamiliar with advanced digital tools...",
-    "challenge": "",
-    "constraints": "No formal research budget; limited historical design documentation from previous team...",
-    "solutions": "Consolidated navigation into a more predictable structure; consolidated pre-existing brand identity...",
-    "process": "1 - Product audit; 2 - addressed urgent usability gaps; 3 - branding consolidation; 4 - post-launch collaborative walkthroughs"
-  },
-  {
-    "title": "Degiro Redesign",
-    "intro": "Brokerage App UX/UI Overhaul (Concept)",
-    "industry": "Finance",
-    "role": "Product Designer",
-    "problem": "DEGIRO’s app suffered from overloaded information hierarchy, inefficient navigation...",
-    "challenge": "",
-    "constraints": "",
-    "solutions": "Larger unobstructed stock charts with relocated value labels, clearer menu with visible settings tab...",
-    "process": ""
+  "projectDetails": {
+    "Security Exchange Platform": [
+      "Problem: Client brought only a conceptual idea with heavy cybersecurity jargon.",
+      "Challenge: Translate vague vision into a usable, multi-user platform.",
+      "Constraints: No formal research budget; multiple user types with overlapping workflows.",
+      "Solutions: Role-based dashboard, compliance alerts, submission system, unified design system.",
+      "Process: Rapid onboarding, IA, prototyping, UI design and design system."
+    ],
+    "Gogrow AI": [
+      "Problem: In-progress product with inconsistent brand identity and usability gaps.",
+      "Constraints: No formal research budget; limited documentation from previous team.",
+      "Solutions: Simplified navigation, consolidated branding, positive user feedback.",
+      "Process: Product audit, usability fixes, branding consolidation, post-launch walkthroughs."
+    ],
+    "Degiro Redesign": [
+      "Problem: Overloaded hierarchy, poor navigation, lack of usability features.",
+      "Solutions: Clearer charts, reorganized stock details, improved information architecture.",
+      "Process: Concept redesign based on user research."
+    ],
+    "Portfolio Agent": [
+      "Problem: Static portfolios don’t showcase conversational design skills.",
+      "Challenge: Balance Voiceflow constraints with recruiter-friendly design.",
+      "Constraints: Platform quirks in Voiceflow’s new UI.",
+      "Solutions: Dynamic agent with buttons + free text, JSON consistency, recruiter-friendly prompts.",
+      "Process: Defined recruiter use cases, structured JSON, iterated prompts for polished tone."
+    ]
   }
-]
 }
-
-
-
-
-
-
-
-
