@@ -52,34 +52,53 @@
     "carlotatudela@outlook.com"
 
   ],
-  "caseStudies": [
-    {
-      "title": "Security Exchange Platform",
-      "intro": "A platform for asset owners to track compliance with industry standards in real time and share security requirements with partners transparently.",
-      "industry": "Utilities and Compliance",
-      "role": "Product Designer",
-      "theproblem": "The client brought only a conceptual idea. No features, no flows, and a domain full of heavy cybersecurity and compliance jargon.",
-      "thechallenge": "Translate a vague vision into a usable, multi-user platform; design for a field the team had no prior knowledge of; ensure clarity for both technical and non-technical stakeholders.",
-      "constraints": "No formal user research budget; multiple user types with overlapping workflows",
-      "solutionsandimpact": "Multi-user role-based dashboard that prioritized critical compliance alerts; submission system with status tracking to reduce ambiguity; unified design system ensuring visual consistency across future modules; delivered full, dev ready prototype used for investor pitches and stakeholder onboarding.",
-      "process": "1 - Rapid onboarding; 2 - Information arquitecture; 3 - Wireframing and prototyping; 4 - ui desing and desing system"
-    },
-    {
-      "title": "Gogrow AI",
-      "intro": "An AI-powered business consulting app that helps companies craft strategies for continuous growth.",
-      "theproblem": "Stepped into an in-progress product targeting small business owners unfamiliar with advanced digital tools. The existing design suffered from inconsistent brand identity, overwhelming layouts for a non-technical audience, low discoverability of key features",
-      "constraints": "No formal research budget; limited historical design documentation from previous team that worked on the project",
-      "solutionsandimpact": "Consolidated navigation into a more predictable structure; consolidated pre-existing brand identity with product's visual identity; exceptionally positive early user feedback, and client satisfaction; client adopted updated brand identity across marketing materials.",
-      "process": "1 - PRoduct audit; 2 - addressed urgent usability gaps; 3 - branding consolidation; 4 - post-launch collaborative walkthroughs"
-    },
-      {
-      "title": "Degiro Redesign",
-      "intro": "Brokerage App UX/UI Overhaul (Concept)",
-      "theproblem": "DEGIRO’s app suffered from overloaded information hierarchy, inefficient navigation, poor thumb reachability for key actions, and a lack of high demand usability features",
-      "solutions": "Larger unobstructed stock charts with relocated value labels, clearer menu with visible settings tab, better information architecture based on user research, reorganized stock details with relevant metrics first, and recommendation wheel replacing hard-to-read financial graphs."
-    }
-  ]
+ "caseStudies": [
+  {
+  "title": "Portfolio Agent",
+  "intro": "An interactive conversational agent embedded in Carlota’s portfolio, designed to let site visitors explore her work more efficiently.",
+  "role": "Conversational Designer",
+  "problem": "Traditional portfolios often feel dense, and are time consuming to go through. Users need a more engaging, guided way to discover her projects and personality.",
+  "challenge": "Balance technical constraints of platforms like Voiceflow with the design vision for fluid recruiter-friendly interactions. Ensure both button-driven and free-text flows feel seamless.",
+  "constraints": "Platform quirks and limitations in Voiceflow’s new UI.",
+  "solutions": "Created a dynamic agent that introduces Carlota, shares skills, favorites, and fun facts, and lets users dive into projects. Designed prompts to vary phrasing for naturalness, and engineered JSON consistency for scalable project summaries.",
+  "process": "1 - Defined recruiter use cases; 2 - Structured JSON for flexible data capture; 3 - Built flows with Capture + Condition + Button logic; 4 - Iterated prompts for recruiter-friendly tone."
+  },
+  {
+    "title": "Security Exchange Platform",
+    "intro": "A platform for asset owners to track compliance with industry standards in real time and share security requirements with partners transparently.",
+    "industry": "Utilities and Compliance",
+    "role": "Product Designer",
+    "problem": "The client brought only a conceptual idea. No features, no flows, and a domain full of heavy cybersecurity and compliance jargon.",
+    "challenge": "Translate a vague vision into a usable, multi-user platform; design for a field the team had no prior knowledge of; ensure clarity for both technical and non-technical stakeholders.",
+    "constraints": "No formal user research budget; multiple user types with overlapping workflows",
+    "solutions": "Multi-user role-based dashboard that prioritized critical compliance alerts; submission system with status tracking to reduce ambiguity; unified design system ensuring visual consistency across future modules; delivered full, dev ready prototype used for investor pitches and stakeholder onboarding.",
+    "process": "1 - Rapid onboarding; 2 - Information architecture; 3 - Wireframing and prototyping; 4 - UI design and design system"
+  },
+  {
+    "title": "Gogrow AI",
+    "intro": "An AI-powered business consulting app that helps companies craft strategies for continuous growth.",
+    "industry": "Business Consulting",
+    "role": "Product Designer",
+    "problem": "Stepped into an in-progress product targeting small business owners unfamiliar with advanced digital tools...",
+    "challenge": "",
+    "constraints": "No formal research budget; limited historical design documentation from previous team...",
+    "solutions": "Consolidated navigation into a more predictable structure; consolidated pre-existing brand identity...",
+    "process": "1 - Product audit; 2 - addressed urgent usability gaps; 3 - branding consolidation; 4 - post-launch collaborative walkthroughs"
+  },
+  {
+    "title": "Degiro Redesign",
+    "intro": "Brokerage App UX/UI Overhaul (Concept)",
+    "industry": "Finance",
+    "role": "Product Designer",
+    "problem": "DEGIRO’s app suffered from overloaded information hierarchy, inefficient navigation...",
+    "challenge": "",
+    "constraints": "",
+    "solutions": "Larger unobstructed stock charts with relocated value labels, clearer menu with visible settings tab...",
+    "process": ""
+  }
+]
 }
+
 
 
 
